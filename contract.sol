@@ -1,6 +1,6 @@
 pragma solidity ^0.8.0;
 
-contract SweetBonanza {
+contract SweetGame {
    uint256 jackpot;
    uint256 bet;
    uint256 randomNumber;
